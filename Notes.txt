@@ -1,0 +1,9 @@
+Q. What is Sanity.io?
+- Sanity.io is the platform for structured content.
+- With Sanity.io you can manage your text, images, and other media with APIs.
+- You can also use the open-source single page application Sanity Studio to quickly set up an editing environment that you can customize.
+- With Sanity.io you have access to a bunch of APIs, libraries, and tooling that helps you leverage the benefits of having all your content available as a single source of truth.
+- Before we dive in, there are three important concepts to bear in mind:
+> Sanity.io has a real-time datastore for structured content, and supporting APIs for assets, user management, and more.
+> Sanity Studio is a user interface for managing content. It's an open-source React Single Page Application that you can customize and host wherever you want.
+> There are also SDKs, libraries, and tools that let you query your content and integrate it with websites, services, and other applications; wherever you need content.
